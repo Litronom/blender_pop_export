@@ -25,4 +25,4 @@ For blender versions 2.93 and above use **_export_pop_v1_blender2,93.py_**
 
 Please refer to this tutorial video to get an idea how to set up your data and export it properly for Tarmac
 
-[![Tutorial](https://yt-embed.herokuapp.com/embed?v=2u1L_epK7mg)](https://www.youtube.com/watch?v=2u1L_epK7mg "(Tutorial) MK64 Custom Course Creation - Blender 2.79 [Stream]")
+[![Tutorial](https://i.imgur.com/BQhocIO.png)](https://www.youtube.com/watch?v=2u1L_epK7mg "(Tutorial) MK64 Custom Course Creation - Blender 2.79 [Stream]")
